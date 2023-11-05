@@ -39,7 +39,7 @@ To use the script, follow these steps:
 
 ## License
 
-This script is available under the MIT License. See the [LICENSE](LICENSE) file for more details.
+This script is available under the MIT License. See the [LICENSE](LICENSE.txt) file for more details.
 
 ## Disclaimer
 
@@ -97,7 +97,7 @@ Para usar o script, siga estas etapas:
 
 ## Licença
 
-Este script está disponível sob a Licença MIT. Consulte o arquivo [LICENSE](LICENSE) para mais detalhes.
+Este script está disponível sob a Licença MIT. Consulte o arquivo [LICENSE](LICENSE.txt) para mais detalhes.
 
 ## Aviso
 
